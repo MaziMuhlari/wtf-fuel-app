@@ -1,4 +1,4 @@
-﻿namespace Valet;
+﻿namespace Fuel;
 
 public partial class AppShell : Shell
 {

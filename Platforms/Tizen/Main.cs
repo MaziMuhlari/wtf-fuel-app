@@ -2,7 +2,7 @@
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace Valet;
+namespace Fuel;
 
 class Program : MauiApplication
 {

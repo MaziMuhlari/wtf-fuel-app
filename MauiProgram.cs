@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace Valet;
+namespace Fuel;
 
 public static class MauiProgram
 {

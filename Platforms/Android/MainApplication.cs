@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace Valet;
+namespace Fuel;
 
 [Application]
 public class MainApplication : MauiApplication

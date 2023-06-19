@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace Valet;
+namespace Fuel;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

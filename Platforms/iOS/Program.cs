@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace Valet;
+namespace Fuel;
 
 public class Program
 {
